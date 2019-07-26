@@ -5,3 +5,4 @@ Edit3
 Edit4
 Edit5 after branch
 Edit6
+Edit7
